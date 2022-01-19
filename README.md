@@ -16,3 +16,4 @@ La app busca crear un layout centrado con imagen, textos y dos botones inferiore
 - Run (Control + R).
 
 ## ScreenShots
+<img width="310" alt="screenshot" src="https://user-images.githubusercontent.com/91626112/150188135-0861a8b8-9140-46c1-af81-fe1ace318cce.png">
